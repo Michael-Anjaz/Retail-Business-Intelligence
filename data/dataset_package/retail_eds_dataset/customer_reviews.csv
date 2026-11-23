@@ -1,0 +1,1001 @@
+review_id,transaction_id,customer_id,product_id,review_datetime,rating,review_text,sentiment_label
+REV00001,TRX004414,CUS00097,PRD0030,2025-08-28T09:43:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00002,TRX002211,CUS00081,PRD0072,2026-01-21T13:35:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00003,TRX004358,CUS00032,PRD0076,2025-08-03T13:10:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00004,TRX001944,CUS00133,PRD0055,2026-10-13T17:32:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00005,TRX001482,CUS00025,PRD0082,2026-05-13T14:26:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00006,TRX003375,CUS00453,PRD0071,2025-08-02T17:09:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00007,TRX004949,CUS00074,PRD0031,2026-09-26T18:32:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00008,TRX002515,CUS00456,PRD0089,2026-05-21T15:30:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00009,TRX007865,CUS00010,PRD0018,2026-08-25T19:32:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00010,TRX006387,CUS00022,PRD0037,2025-09-29T18:50:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00011,TRX006189,CUS00330,PRD0005,2025-09-13T17:15:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00012,TRX005746,CUS00056,PRD0077,2025-02-19T19:44:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00013,TRX004736,CUS00237,PRD0087,2025-10-12T08:06:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00014,TRX006472,CUS00128,PRD0061,2026-05-11T15:49:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00015,TRX003324,CUS00272,PRD0070,2026-01-13T20:01:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00016,TRX003226,CUS00422,PRD0082,2025-08-09T15:11:00,3,Kualitas sesuai harga.,Neutral
+REV00017,TRX004985,CUS00187,PRD0033,2026-11-02T10:13:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00018,TRX001539,CUS00176,PRD0082,2025-03-21T12:47:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00019,TRX003268,CUS00246,PRD0041,2025-08-23T12:07:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00020,TRX006973,CUS00183,PRD0011,2026-06-29T11:40:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00021,TRX007777,CUS00392,PRD0015,2025-12-10T19:31:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00022,TRX006953,CUS00145,PRD0037,2026-04-26T13:10:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00023,TRX006252,CUS00052,PRD0055,2025-06-12T10:43:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00024,TRX000260,CUS00388,PRD0016,2025-07-28T17:34:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00025,TRX004310,CUS00319,PRD0021,2026-01-28T09:21:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00026,TRX006854,CUS00277,PRD0058,2026-05-25T15:35:00,3,Kualitas sesuai harga.,Neutral
+REV00027,TRX000345,CUS00139,PRD0045,2026-08-09T21:18:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00028,TRX004647,CUS00264,PRD0074,2026-06-24T15:51:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00029,TRX003430,CUS00476,PRD0082,2025-08-22T13:47:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00030,TRX002592,CUS00017,PRD0060,2025-12-07T16:47:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00031,TRX000470,CUS00337,PRD0084,2026-01-29T21:37:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00032,TRX006914,CUS00075,PRD0043,2026-06-06T11:00:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00033,TRX005714,CUS00291,PRD0023,2026-09-23T17:24:00,3,Kualitas sesuai harga.,Neutral
+REV00034,TRX007156,CUS00250,PRD0067,2025-07-21T18:39:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00035,TRX007970,CUS00153,PRD0093,2026-10-29T09:01:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00036,TRX003190,CUS00390,PRD0080,2025-05-06T09:54:00,3,Kualitas sesuai harga.,Neutral
+REV00037,TRX006614,CUS00088,PRD0060,2026-05-14T11:02:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00038,TRX007744,CUS00445,PRD0038,2026-02-11T10:07:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00039,TRX000273,CUS00438,PRD0053,2025-01-13T14:41:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00040,TRX002986,CUS00468,PRD0059,2026-04-28T21:23:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00041,TRX006537,CUS00336,PRD0031,2026-05-14T20:25:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00042,TRX007072,CUS00040,PRD0100,2026-04-23T10:51:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00043,TRX001969,CUS00404,PRD0037,2025-10-14T14:06:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00044,TRX006231,CUS00228,PRD0038,2026-08-16T14:34:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00045,TRX002811,CUS00159,PRD0009,2025-09-10T20:22:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00046,TRX004485,CUS00461,PRD0083,2025-12-22T15:51:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00047,TRX006133,CUS00341,PRD0081,2026-06-26T19:44:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00048,TRX000767,CUS00043,PRD0050,2025-08-17T09:19:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00049,TRX003227,CUS00027,PRD0028,2026-02-14T16:25:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00050,TRX005308,CUS00252,PRD0043,2026-08-11T08:06:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00051,TRX002900,CUS00313,PRD0044,2025-08-17T09:22:00,3,Kualitas sesuai harga.,Neutral
+REV00052,TRX000485,CUS00107,PRD0089,2025-03-17T15:35:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00053,TRX005394,CUS00179,PRD0048,2026-02-04T21:14:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00054,TRX005199,CUS00163,PRD0022,2025-11-05T11:11:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00055,TRX004212,CUS00005,PRD0011,2026-07-04T14:42:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00056,TRX005783,CUS00221,PRD0075,2026-10-03T15:00:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00057,TRX004958,CUS00324,PRD0036,2026-07-21T10:28:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00058,TRX007619,CUS00495,PRD0074,2025-01-19T15:42:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00059,TRX006917,CUS00076,PRD0018,2025-01-27T11:04:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00060,TRX003720,CUS00273,PRD0013,2025-07-15T08:01:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00061,TRX006574,CUS00023,PRD0046,2025-01-15T09:29:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00062,TRX003996,CUS00496,PRD0032,2025-04-09T14:02:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00063,TRX004022,CUS00167,PRD0065,2025-08-13T09:09:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00064,TRX006642,CUS00188,PRD0030,2025-12-03T20:06:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00065,TRX000136,CUS00394,PRD0066,2026-04-27T21:10:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00066,TRX006696,CUS00317,PRD0038,2026-03-15T12:05:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00067,TRX000024,CUS00077,PRD0065,2025-12-31T18:43:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00068,TRX007567,CUS00345,PRD0088,2025-03-02T21:23:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00069,TRX005272,CUS00055,PRD0023,2026-01-01T21:29:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00070,TRX000360,CUS00483,PRD0041,2025-05-02T12:23:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00071,TRX002359,CUS00462,PRD0077,2025-02-21T14:34:00,3,Kualitas sesuai harga.,Neutral
+REV00072,TRX001067,CUS00490,PRD0097,2026-08-17T18:07:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00073,TRX005532,CUS00225,PRD0088,2026-03-31T16:39:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00074,TRX007351,CUS00285,PRD0050,2026-03-06T11:56:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00075,TRX007605,CUS00305,PRD0084,2025-07-13T20:51:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00076,TRX002014,CUS00082,PRD0050,2025-04-17T20:43:00,3,Kualitas sesuai harga.,Neutral
+REV00077,TRX004032,CUS00200,PRD0077,2025-07-04T08:28:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00078,TRX005782,CUS00266,PRD0090,2026-11-01T17:48:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00079,TRX004106,CUS00037,PRD0011,2025-06-12T17:41:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00080,TRX006645,CUS00147,PRD0002,2026-11-08T08:06:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00081,TRX001272,CUS00143,PRD0086,2025-05-14T10:54:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00082,TRX000404,CUS00207,PRD0056,2025-05-19T18:24:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00083,TRX007173,CUS00442,PRD0045,2025-10-22T21:55:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00084,TRX001466,CUS00253,PRD0081,2026-10-21T18:59:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00085,TRX001542,CUS00411,PRD0043,2025-04-03T14:53:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00086,TRX001079,CUS00335,PRD0019,2026-06-14T10:58:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00087,TRX007908,CUS00125,PRD0084,2025-05-04T08:03:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00088,TRX006983,CUS00332,PRD0033,2026-07-25T11:39:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00089,TRX004062,CUS00192,PRD0021,2026-10-12T19:54:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00090,TRX005358,CUS00252,PRD0048,2026-09-04T14:44:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00091,TRX004255,CUS00088,PRD0069,2026-05-02T21:07:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00092,TRX003525,CUS00305,PRD0030,2025-04-05T18:04:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00093,TRX002382,CUS00240,PRD0041,2026-02-06T14:32:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00094,TRX004658,CUS00264,PRD0054,2026-09-13T16:35:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00095,TRX004912,CUS00439,PRD0007,2025-03-20T14:00:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00096,TRX003931,CUS00325,PRD0012,2025-03-25T17:12:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00097,TRX001287,CUS00018,PRD0029,2026-08-14T17:17:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00098,TRX001085,CUS00256,PRD0011,2025-12-16T11:00:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00099,TRX007363,CUS00448,PRD0050,2025-06-13T16:47:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00100,TRX002711,CUS00297,PRD0028,2026-07-11T10:03:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00101,TRX004173,CUS00408,PRD0046,2025-06-30T15:45:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00102,TRX002876,CUS00316,PRD0002,2026-03-02T15:04:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00103,TRX003697,CUS00277,PRD0097,2025-04-12T12:29:00,3,Kualitas sesuai harga.,Neutral
+REV00104,TRX005474,CUS00027,PRD0072,2026-01-25T10:20:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00105,TRX006939,CUS00490,PRD0047,2025-04-05T13:04:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00106,TRX007478,CUS00180,PRD0079,2025-10-28T09:22:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00107,TRX006220,CUS00469,PRD0019,2026-04-21T20:47:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00108,TRX005040,CUS00354,PRD0086,2025-07-29T12:51:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00109,TRX001529,CUS00276,PRD0044,2025-05-18T11:21:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00110,TRX003246,CUS00450,PRD0064,2026-06-20T13:37:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00111,TRX002253,CUS00396,PRD0001,2025-05-28T21:40:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00112,TRX000104,CUS00320,PRD0030,2026-10-06T21:51:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00113,TRX003492,CUS00118,PRD0019,2025-10-19T15:44:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00114,TRX005222,CUS00459,PRD0038,2025-06-16T13:35:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00115,TRX002911,CUS00187,PRD0038,2025-05-13T15:15:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00116,TRX000325,CUS00311,PRD0011,2025-12-02T18:28:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00117,TRX002006,CUS00017,PRD0086,2025-06-22T17:40:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00118,TRX000230,CUS00202,PRD0059,2025-12-17T08:18:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00119,TRX007629,CUS00471,PRD0073,2026-08-17T20:12:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00120,TRX000806,CUS00367,PRD0038,2026-07-24T14:46:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00121,TRX001223,CUS00330,PRD0043,2025-05-15T11:28:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00122,TRX007448,CUS00376,PRD0030,2025-02-10T12:21:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00123,TRX002524,CUS00135,PRD0072,2026-04-15T13:54:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00124,TRX005409,CUS00294,PRD0091,2026-03-21T15:44:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00125,TRX004475,CUS00260,PRD0068,2026-06-06T19:52:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00126,TRX002987,CUS00410,PRD0067,2026-10-06T19:58:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00127,TRX007417,CUS00323,PRD0100,2025-08-01T09:45:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00128,TRX004066,CUS00485,PRD0086,2026-01-14T13:44:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00129,TRX001031,CUS00149,PRD0005,2026-08-15T15:12:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00130,TRX001493,CUS00159,PRD0020,2025-10-08T18:46:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00131,TRX004017,CUS00300,PRD0025,2026-03-23T18:17:00,3,Kualitas sesuai harga.,Neutral
+REV00132,TRX007041,CUS00425,PRD0040,2025-08-29T20:49:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00133,TRX003810,CUS00320,PRD0021,2026-03-01T19:44:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00134,TRX005581,CUS00126,PRD0071,2025-06-30T20:56:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00135,TRX000038,CUS00198,PRD0038,2025-12-02T14:58:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00136,TRX005131,CUS00242,PRD0075,2025-12-25T13:01:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00137,TRX003941,CUS00398,PRD0015,2026-08-30T16:07:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00138,TRX002642,CUS00216,PRD0056,2025-01-13T15:00:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00139,TRX003063,CUS00204,PRD0068,2025-02-27T10:28:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00140,TRX003534,CUS00123,PRD0002,2025-10-24T21:36:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00141,TRX001112,CUS00458,PRD0061,2026-01-04T17:08:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00142,TRX001902,CUS00363,PRD0007,2026-10-21T19:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00143,TRX003828,CUS00216,PRD0076,2025-11-07T14:11:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00144,TRX000329,CUS00480,PRD0074,2025-04-08T13:47:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00145,TRX004751,CUS00031,PRD0086,2025-08-21T13:39:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00146,TRX000098,CUS00080,PRD0012,2025-04-12T08:29:00,3,Kualitas sesuai harga.,Neutral
+REV00147,TRX006122,CUS00268,PRD0087,2026-01-01T17:09:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00148,TRX005648,CUS00384,PRD0041,2026-10-09T19:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00149,TRX006257,CUS00052,PRD0076,2026-08-13T08:34:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00150,TRX004276,CUS00098,PRD0034,2026-02-23T20:52:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00151,TRX000547,CUS00488,PRD0071,2025-02-03T14:40:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00152,TRX005917,CUS00400,PRD0033,2025-07-17T14:01:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00153,TRX004606,CUS00406,PRD0065,2025-12-18T15:56:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00154,TRX007142,CUS00082,PRD0044,2026-03-04T19:44:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00155,TRX005060,CUS00440,PRD0084,2025-07-14T08:29:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00156,TRX002261,CUS00487,PRD0084,2025-03-04T12:25:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00157,TRX007245,CUS00158,PRD0032,2026-07-15T09:09:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00158,TRX006864,CUS00282,PRD0020,2026-09-01T11:18:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00159,TRX005369,CUS00440,PRD0009,2026-03-22T08:59:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00160,TRX003631,CUS00388,PRD0070,2025-07-23T09:58:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00161,TRX007899,CUS00498,PRD0021,2026-10-20T14:00:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00162,TRX000501,CUS00320,PRD0076,2026-09-04T19:19:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00163,TRX004499,CUS00082,PRD0060,2026-05-27T16:09:00,3,Kualitas sesuai harga.,Neutral
+REV00164,TRX007042,CUS00378,PRD0005,2025-08-31T14:44:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00165,TRX005054,CUS00193,PRD0065,2026-09-21T15:28:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00166,TRX001515,CUS00280,PRD0001,2026-09-10T11:12:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00167,TRX003921,CUS00335,PRD0080,2026-10-01T19:38:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00168,TRX007517,CUS00162,PRD0071,2025-07-07T10:39:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00169,TRX001909,CUS00283,PRD0096,2025-03-22T17:49:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00170,TRX007797,CUS00087,PRD0071,2025-12-10T08:24:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00171,TRX003235,CUS00222,PRD0075,2025-12-15T11:16:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00172,TRX005466,CUS00143,PRD0057,2025-02-24T14:42:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00173,TRX003768,CUS00218,PRD0046,2025-11-02T13:46:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00174,TRX006641,CUS00114,PRD0097,2025-08-29T21:04:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00175,TRX001839,CUS00019,PRD0026,2025-03-25T18:43:00,3,Kualitas sesuai harga.,Neutral
+REV00176,TRX000820,CUS00278,PRD0092,2026-06-17T13:47:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00177,TRX007785,CUS00165,PRD0079,2026-04-04T21:32:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00178,TRX003159,CUS00466,PRD0032,2025-02-19T15:51:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00179,TRX005088,CUS00437,PRD0089,2025-10-17T15:46:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00180,TRX004172,CUS00221,PRD0074,2026-04-15T10:07:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00181,TRX004137,CUS00149,PRD0018,2026-07-11T14:15:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00182,TRX005575,CUS00427,PRD0094,2025-03-12T20:01:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00183,TRX001957,CUS00239,PRD0094,2025-01-17T17:18:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00184,TRX005641,CUS00210,PRD0075,2026-05-11T17:42:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00185,TRX003464,CUS00230,PRD0064,2025-08-12T11:24:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00186,TRX004981,CUS00108,PRD0084,2025-11-09T20:37:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00187,TRX005834,CUS00192,PRD0081,2025-05-01T18:28:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00188,TRX005037,CUS00341,PRD0094,2026-03-18T21:47:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00189,TRX005480,CUS00366,PRD0083,2025-09-20T16:23:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00190,TRX007591,CUS00208,PRD0084,2026-01-11T14:51:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00191,TRX007108,CUS00249,PRD0048,2025-07-28T11:57:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00192,TRX005726,CUS00482,PRD0047,2025-05-24T11:37:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00193,TRX005936,CUS00073,PRD0034,2026-10-26T15:23:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00194,TRX000900,CUS00296,PRD0001,2026-04-17T21:40:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00195,TRX001854,CUS00065,PRD0075,2025-02-21T08:23:00,3,Kualitas sesuai harga.,Neutral
+REV00196,TRX004965,CUS00201,PRD0014,2026-11-01T11:59:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00197,TRX001910,CUS00212,PRD0015,2025-12-27T12:06:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00198,TRX002725,CUS00453,PRD0019,2025-12-14T10:20:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00199,TRX004734,CUS00204,PRD0073,2025-07-06T19:30:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00200,TRX002778,CUS00130,PRD0086,2025-07-11T17:59:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00201,TRX007441,CUS00108,PRD0053,2025-03-28T09:37:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00202,TRX003062,CUS00008,PRD0007,2026-06-15T10:32:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00203,TRX001402,CUS00479,PRD0019,2026-10-25T12:23:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00204,TRX007812,CUS00352,PRD0042,2026-04-06T09:18:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00205,TRX007416,CUS00128,PRD0027,2025-03-15T21:17:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00206,TRX001435,CUS00226,PRD0098,2025-03-30T21:16:00,3,Kualitas sesuai harga.,Neutral
+REV00207,TRX001356,CUS00257,PRD0052,2025-08-28T13:18:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00208,TRX000066,CUS00395,PRD0100,2026-04-13T14:36:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00209,TRX005442,CUS00296,PRD0047,2026-05-06T18:07:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00210,TRX002732,CUS00044,PRD0007,2025-12-16T15:31:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00211,TRX005057,CUS00184,PRD0060,2026-01-06T14:09:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00212,TRX003589,CUS00453,PRD0088,2025-08-21T09:06:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00213,TRX002683,CUS00457,PRD0080,2025-01-24T15:01:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00214,TRX004871,CUS00442,PRD0066,2025-12-02T12:23:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00215,TRX003541,CUS00415,PRD0083,2025-01-24T10:02:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00216,TRX001330,CUS00477,PRD0053,2026-01-10T18:25:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00217,TRX001081,CUS00282,PRD0045,2026-07-20T19:21:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00218,TRX004292,CUS00362,PRD0088,2025-05-23T21:05:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00219,TRX007383,CUS00393,PRD0037,2026-08-08T10:22:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00220,TRX001996,CUS00428,PRD0028,2025-02-18T08:45:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00221,TRX006559,CUS00148,PRD0013,2025-09-22T18:00:00,3,Kualitas sesuai harga.,Neutral
+REV00222,TRX001564,CUS00230,PRD0027,2026-10-24T16:07:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00223,TRX004974,CUS00390,PRD0093,2026-07-04T08:09:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00224,TRX000782,CUS00378,PRD0006,2025-11-15T11:30:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00225,TRX007327,CUS00426,PRD0037,2026-05-15T14:12:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00226,TRX007499,CUS00068,PRD0080,2025-01-23T12:19:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00227,TRX001646,CUS00188,PRD0073,2025-09-24T14:45:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00228,TRX003694,CUS00259,PRD0070,2026-07-17T11:56:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00229,TRX006890,CUS00191,PRD0029,2025-08-26T21:32:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00230,TRX000517,CUS00411,PRD0059,2025-03-06T09:19:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00231,TRX007956,CUS00081,PRD0059,2025-03-15T19:51:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00232,TRX007183,CUS00049,PRD0034,2026-09-16T18:45:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00233,TRX007816,CUS00163,PRD0059,2025-06-22T08:19:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00234,TRX002762,CUS00167,PRD0075,2026-02-18T19:47:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00235,TRX000730,CUS00165,PRD0006,2026-08-02T20:29:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00236,TRX005899,CUS00184,PRD0024,2025-10-08T13:34:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00237,TRX005760,CUS00392,PRD0017,2026-02-04T16:48:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00238,TRX002154,CUS00246,PRD0058,2025-05-11T20:54:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00239,TRX005009,CUS00362,PRD0031,2025-05-08T08:30:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00240,TRX007451,CUS00126,PRD0015,2026-09-29T18:48:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00241,TRX006011,CUS00047,PRD0037,2025-10-30T13:15:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00242,TRX002934,CUS00129,PRD0016,2025-02-10T21:47:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00243,TRX005771,CUS00276,PRD0099,2025-12-21T17:38:00,3,Kualitas sesuai harga.,Neutral
+REV00244,TRX006669,CUS00257,PRD0017,2026-04-10T17:51:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00245,TRX004556,CUS00292,PRD0012,2026-03-12T14:41:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00246,TRX004515,CUS00325,PRD0069,2025-12-17T12:32:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00247,TRX005927,CUS00032,PRD0046,2025-08-24T10:39:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00248,TRX004078,CUS00077,PRD0029,2025-03-17T17:00:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00249,TRX006998,CUS00304,PRD0035,2025-07-10T16:55:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00250,TRX002945,CUS00409,PRD0040,2025-09-15T10:56:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00251,TRX006725,CUS00311,PRD0076,2026-01-30T09:02:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00252,TRX001428,CUS00308,PRD0045,2026-02-04T14:37:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00253,TRX007654,CUS00403,PRD0050,2026-02-13T12:03:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00254,TRX006345,CUS00421,PRD0001,2026-07-12T17:10:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00255,TRX004170,CUS00202,PRD0079,2025-12-06T17:23:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00256,TRX006577,CUS00254,PRD0076,2026-08-15T09:28:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00257,TRX003033,CUS00476,PRD0094,2025-05-25T13:43:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00258,TRX006780,CUS00466,PRD0006,2025-07-18T10:45:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00259,TRX001214,CUS00166,PRD0080,2026-02-09T08:58:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00260,TRX007958,CUS00329,PRD0024,2025-07-25T09:37:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00261,TRX002155,CUS00182,PRD0072,2025-12-04T11:37:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00262,TRX006509,CUS00084,PRD0075,2026-07-17T12:48:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00263,TRX002333,CUS00277,PRD0100,2026-03-03T14:51:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00264,TRX002457,CUS00433,PRD0015,2026-04-09T19:47:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00265,TRX001078,CUS00367,PRD0018,2026-03-03T14:28:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00266,TRX000887,CUS00134,PRD0069,2025-10-22T12:16:00,3,Kualitas sesuai harga.,Neutral
+REV00267,TRX003473,CUS00058,PRD0008,2025-03-18T20:19:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00268,TRX005705,CUS00006,PRD0035,2026-08-10T20:28:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00269,TRX003164,CUS00351,PRD0004,2025-10-13T20:37:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00270,TRX001458,CUS00430,PRD0076,2025-12-18T13:51:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00271,TRX007702,CUS00087,PRD0081,2026-02-25T18:06:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00272,TRX007296,CUS00143,PRD0085,2025-11-07T18:54:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00273,TRX002275,CUS00213,PRD0022,2026-05-08T09:03:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00274,TRX001900,CUS00393,PRD0081,2026-02-18T21:56:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00275,TRX003001,CUS00026,PRD0040,2026-03-27T19:04:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00276,TRX003498,CUS00202,PRD0047,2025-08-15T17:57:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00277,TRX000328,CUS00034,PRD0056,2026-08-15T20:59:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00278,TRX007814,CUS00253,PRD0065,2026-06-19T16:57:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00279,TRX002624,CUS00009,PRD0068,2025-03-22T09:14:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00280,TRX003891,CUS00382,PRD0032,2026-09-26T12:54:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00281,TRX005011,CUS00339,PRD0026,2025-05-26T10:33:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00282,TRX007651,CUS00072,PRD0036,2026-10-18T09:55:00,3,Kualitas sesuai harga.,Neutral
+REV00283,TRX002867,CUS00173,PRD0056,2025-10-19T21:56:00,3,Kualitas sesuai harga.,Neutral
+REV00284,TRX007751,CUS00389,PRD0005,2025-05-06T09:32:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00285,TRX002946,CUS00389,PRD0078,2026-02-21T10:54:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00286,TRX001069,CUS00384,PRD0017,2026-04-23T12:01:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00287,TRX001049,CUS00097,PRD0019,2025-02-14T13:07:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00288,TRX003507,CUS00035,PRD0093,2026-07-23T15:54:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00289,TRX000664,CUS00191,PRD0087,2026-02-26T10:37:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00290,TRX000239,CUS00076,PRD0022,2025-04-06T12:49:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00291,TRX003084,CUS00443,PRD0074,2026-04-02T16:37:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00292,TRX000879,CUS00031,PRD0051,2026-07-06T20:33:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00293,TRX006467,CUS00393,PRD0099,2025-03-18T18:39:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00294,TRX000761,CUS00260,PRD0077,2025-11-23T14:30:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00295,TRX000034,CUS00355,PRD0050,2025-09-10T16:50:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00296,TRX001607,CUS00391,PRD0035,2026-05-23T21:37:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00297,TRX003155,CUS00178,PRD0040,2025-07-26T18:42:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00298,TRX003575,CUS00412,PRD0048,2025-07-10T08:58:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00299,TRX003168,CUS00002,PRD0031,2025-06-05T16:49:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00300,TRX002229,CUS00354,PRD0019,2026-09-23T11:45:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00301,TRX000062,CUS00190,PRD0050,2025-04-13T09:16:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00302,TRX000978,CUS00068,PRD0032,2026-01-19T13:30:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00303,TRX004727,CUS00259,PRD0080,2025-10-28T17:19:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00304,TRX006079,CUS00469,PRD0011,2025-09-09T15:51:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00305,TRX002328,CUS00216,PRD0074,2025-01-22T16:50:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00306,TRX001188,CUS00037,PRD0012,2025-03-28T20:48:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00307,TRX007856,CUS00144,PRD0020,2025-10-04T21:10:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00308,TRX001358,CUS00462,PRD0003,2025-09-30T21:56:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00309,TRX006707,CUS00452,PRD0076,2025-08-06T11:59:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00310,TRX001530,CUS00173,PRD0081,2025-09-17T16:56:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00311,TRX007556,CUS00025,PRD0002,2025-05-20T15:04:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00312,TRX001562,CUS00144,PRD0085,2026-07-18T17:13:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00313,TRX001056,CUS00069,PRD0073,2026-11-14T13:28:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00314,TRX002538,CUS00355,PRD0053,2026-04-15T21:39:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00315,TRX005517,CUS00060,PRD0016,2026-04-25T10:55:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00316,TRX000466,CUS00133,PRD0081,2026-03-28T10:16:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00317,TRX006554,CUS00432,PRD0029,2026-05-15T12:12:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00318,TRX001064,CUS00139,PRD0094,2025-07-19T11:58:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00319,TRX004144,CUS00196,PRD0045,2025-10-30T14:35:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00320,TRX006201,CUS00080,PRD0066,2026-08-03T13:38:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00321,TRX004546,CUS00067,PRD0092,2025-02-19T18:34:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00322,TRX007474,CUS00023,PRD0032,2026-09-30T15:06:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00323,TRX001315,CUS00310,PRD0089,2025-10-22T08:58:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00324,TRX007933,CUS00301,PRD0099,2025-12-15T21:18:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00325,TRX005302,CUS00284,PRD0017,2025-01-14T11:25:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00326,TRX004067,CUS00011,PRD0026,2025-02-22T19:42:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00327,TRX000080,CUS00212,PRD0045,2025-04-09T15:19:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00328,TRX000552,CUS00488,PRD0065,2026-06-13T15:32:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00329,TRX001825,CUS00150,PRD0069,2026-07-27T13:00:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00330,TRX000714,CUS00458,PRD0075,2026-08-09T09:02:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00331,TRX007399,CUS00316,PRD0015,2025-02-14T11:18:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00332,TRX004376,CUS00033,PRD0035,2025-11-25T12:29:00,3,Kualitas sesuai harga.,Neutral
+REV00333,TRX002138,CUS00438,PRD0091,2026-05-09T09:31:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00334,TRX003674,CUS00372,PRD0057,2026-02-24T11:05:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00335,TRX006268,CUS00160,PRD0018,2025-12-10T11:54:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00336,TRX006432,CUS00316,PRD0052,2025-07-15T11:49:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00337,TRX001896,CUS00212,PRD0016,2026-08-29T09:18:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00338,TRX006608,CUS00343,PRD0044,2026-02-26T14:25:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00339,TRX004403,CUS00191,PRD0042,2026-02-03T12:13:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00340,TRX002623,CUS00421,PRD0037,2025-03-06T18:56:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00341,TRX006270,CUS00262,PRD0081,2026-08-01T15:33:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00342,TRX001103,CUS00468,PRD0006,2025-08-14T08:00:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00343,TRX007280,CUS00171,PRD0055,2025-10-25T10:52:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00344,TRX006636,CUS00193,PRD0033,2025-07-30T11:27:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00345,TRX000590,CUS00150,PRD0036,2025-02-02T18:21:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00346,TRX003511,CUS00272,PRD0051,2026-05-20T16:12:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00347,TRX007046,CUS00438,PRD0082,2026-09-28T15:54:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00348,TRX000600,CUS00170,PRD0088,2025-11-14T16:44:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00349,TRX007798,CUS00085,PRD0059,2026-03-31T10:55:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00350,TRX004554,CUS00298,PRD0032,2025-08-13T21:15:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00351,TRX004048,CUS00437,PRD0006,2026-02-04T18:07:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00352,TRX006339,CUS00423,PRD0081,2026-04-18T12:57:00,3,Kualitas sesuai harga.,Neutral
+REV00353,TRX003131,CUS00455,PRD0016,2026-11-02T08:02:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00354,TRX003071,CUS00488,PRD0004,2025-10-21T17:43:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00355,TRX002546,CUS00131,PRD0096,2026-01-17T21:08:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00356,TRX004860,CUS00107,PRD0012,2025-03-21T11:09:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00357,TRX005044,CUS00031,PRD0058,2026-10-31T15:09:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00358,TRX006374,CUS00173,PRD0085,2025-03-07T12:25:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00359,TRX000242,CUS00241,PRD0092,2025-06-25T12:46:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00360,TRX000364,CUS00230,PRD0056,2026-08-07T13:57:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00361,TRX006066,CUS00347,PRD0057,2025-06-30T14:49:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00362,TRX007217,CUS00044,PRD0068,2025-09-18T12:34:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00363,TRX006515,CUS00239,PRD0095,2026-03-08T20:13:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00364,TRX006458,CUS00069,PRD0070,2026-02-15T15:56:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00365,TRX000174,CUS00288,PRD0043,2025-07-07T18:35:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00366,TRX004988,CUS00241,PRD0017,2026-06-23T16:11:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00367,TRX001030,CUS00138,PRD0057,2025-09-30T15:29:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00368,TRX000756,CUS00174,PRD0034,2025-09-06T16:35:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00369,TRX002630,CUS00111,PRD0098,2025-05-02T10:52:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00370,TRX002456,CUS00005,PRD0024,2026-08-28T17:34:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00371,TRX000558,CUS00083,PRD0093,2025-10-18T09:04:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00372,TRX003904,CUS00337,PRD0098,2025-08-19T12:55:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00373,TRX006185,CUS00348,PRD0097,2025-12-02T12:12:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00374,TRX004722,CUS00492,PRD0033,2026-01-26T15:46:00,3,Kualitas sesuai harga.,Neutral
+REV00375,TRX007484,CUS00485,PRD0025,2026-09-17T10:07:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00376,TRX005106,CUS00400,PRD0045,2025-03-04T16:10:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00377,TRX004740,CUS00095,PRD0055,2025-09-07T12:07:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00378,TRX006597,CUS00079,PRD0064,2026-05-27T14:23:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00379,TRX005254,CUS00444,PRD0028,2025-02-05T20:52:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00380,TRX004848,CUS00165,PRD0014,2025-02-21T16:06:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00381,TRX002292,CUS00079,PRD0007,2026-09-18T13:30:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00382,TRX004684,CUS00005,PRD0058,2025-11-25T09:09:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00383,TRX004010,CUS00486,PRD0051,2025-11-18T13:15:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00384,TRX001448,CUS00293,PRD0044,2025-02-12T18:45:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00385,TRX006238,CUS00291,PRD0099,2025-01-21T11:13:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00386,TRX006794,CUS00061,PRD0002,2025-08-27T19:02:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00387,TRX006811,CUS00429,PRD0027,2025-12-20T08:42:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00388,TRX002815,CUS00361,PRD0082,2026-02-05T16:39:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00389,TRX006822,CUS00082,PRD0046,2025-08-11T13:54:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00390,TRX002310,CUS00431,PRD0030,2026-05-30T11:46:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00391,TRX003152,CUS00464,PRD0020,2025-09-22T18:52:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00392,TRX006751,CUS00208,PRD0090,2025-09-15T08:41:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00393,TRX002809,CUS00341,PRD0029,2026-02-08T18:01:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00394,TRX006823,CUS00054,PRD0026,2025-05-09T20:27:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00395,TRX002873,CUS00473,PRD0008,2025-05-24T13:46:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00396,TRX002701,CUS00234,PRD0065,2026-04-26T17:09:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00397,TRX003601,CUS00419,PRD0094,2026-05-04T18:54:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00398,TRX005278,CUS00175,PRD0018,2026-07-10T13:44:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00399,TRX000442,CUS00154,PRD0031,2026-02-19T08:59:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00400,TRX005367,CUS00483,PRD0043,2026-05-31T19:27:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00401,TRX000755,CUS00365,PRD0067,2026-07-30T15:25:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00402,TRX004579,CUS00351,PRD0073,2025-09-04T21:16:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00403,TRX006453,CUS00253,PRD0065,2026-10-06T14:13:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00404,TRX001270,CUS00087,PRD0038,2025-01-31T18:20:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00405,TRX004433,CUS00308,PRD0069,2025-11-16T08:55:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00406,TRX005680,CUS00385,PRD0040,2026-08-20T21:13:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00407,TRX003959,CUS00366,PRD0066,2026-05-21T17:50:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00408,TRX000793,CUS00139,PRD0092,2026-01-16T11:40:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00409,TRX004954,CUS00097,PRD0063,2026-01-08T11:07:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00410,TRX005981,CUS00078,PRD0081,2025-11-08T09:39:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00411,TRX001907,CUS00128,PRD0008,2025-04-02T18:12:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00412,TRX007668,CUS00124,PRD0097,2025-11-03T21:02:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00413,TRX002918,CUS00489,PRD0026,2026-06-11T12:43:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00414,TRX007546,CUS00144,PRD0089,2025-05-13T16:11:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00415,TRX002298,CUS00443,PRD0089,2025-12-09T11:55:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00416,TRX006687,CUS00338,PRD0044,2025-10-28T13:35:00,3,Kualitas sesuai harga.,Neutral
+REV00417,TRX006924,CUS00341,PRD0092,2026-01-26T17:45:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00418,TRX000568,CUS00184,PRD0047,2025-08-13T09:31:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00419,TRX005668,CUS00143,PRD0059,2025-07-20T19:11:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00420,TRX007612,CUS00290,PRD0084,2026-06-18T16:32:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00421,TRX005945,CUS00115,PRD0025,2026-01-27T19:54:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00422,TRX006549,CUS00086,PRD0018,2026-02-02T14:11:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00423,TRX000532,CUS00181,PRD0098,2026-10-12T17:10:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00424,TRX002561,CUS00388,PRD0056,2025-03-13T10:03:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00425,TRX001219,CUS00107,PRD0076,2025-11-29T17:31:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00426,TRX002806,CUS00279,PRD0054,2025-08-07T21:15:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00427,TRX007241,CUS00014,PRD0034,2025-06-13T20:35:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00428,TRX001583,CUS00042,PRD0022,2026-02-18T11:05:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00429,TRX005767,CUS00285,PRD0030,2026-06-08T09:48:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00430,TRX003286,CUS00443,PRD0087,2025-11-25T14:08:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00431,TRX001430,CUS00382,PRD0078,2026-03-20T18:11:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00432,TRX006967,CUS00344,PRD0037,2025-07-01T09:06:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00433,TRX003264,CUS00375,PRD0020,2025-03-02T13:27:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00434,TRX004408,CUS00029,PRD0044,2026-06-30T19:13:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00435,TRX000420,CUS00065,PRD0075,2025-05-28T17:29:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00436,TRX000510,CUS00450,PRD0088,2026-10-19T13:29:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00437,TRX005210,CUS00247,PRD0041,2026-06-21T18:31:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00438,TRX004008,CUS00254,PRD0079,2026-03-14T08:36:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00439,TRX004060,CUS00118,PRD0088,2025-02-13T15:15:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00440,TRX004859,CUS00459,PRD0052,2025-04-18T20:36:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00441,TRX002895,CUS00413,PRD0017,2025-06-08T20:49:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00442,TRX000478,CUS00195,PRD0093,2026-09-03T17:23:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00443,TRX003248,CUS00342,PRD0007,2025-05-13T20:17:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00444,TRX004417,CUS00234,PRD0059,2025-02-22T14:36:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00445,TRX004478,CUS00352,PRD0066,2025-05-02T21:41:00,3,Kualitas sesuai harga.,Neutral
+REV00446,TRX006555,CUS00198,PRD0051,2026-08-25T09:24:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00447,TRX001003,CUS00279,PRD0015,2026-07-12T10:55:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00448,TRX001023,CUS00025,PRD0086,2026-03-27T13:56:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00449,TRX005549,CUS00198,PRD0057,2026-02-28T10:01:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00450,TRX006364,CUS00226,PRD0016,2025-07-07T14:13:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00451,TRX003784,CUS00480,PRD0065,2025-09-16T15:50:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00452,TRX001401,CUS00138,PRD0042,2026-04-19T09:27:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00453,TRX005143,CUS00270,PRD0088,2026-03-08T09:36:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00454,TRX002337,CUS00107,PRD0095,2026-05-15T17:32:00,3,Kualitas sesuai harga.,Neutral
+REV00455,TRX003304,CUS00083,PRD0048,2025-04-06T18:22:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00456,TRX004035,CUS00258,PRD0088,2026-10-11T14:01:00,3,Kualitas sesuai harga.,Neutral
+REV00457,TRX000700,CUS00364,PRD0018,2026-04-27T11:29:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00458,TRX007435,CUS00240,PRD0036,2026-07-01T14:22:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00459,TRX003400,CUS00421,PRD0088,2025-10-16T08:00:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00460,TRX006869,CUS00183,PRD0051,2026-07-27T10:09:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00461,TRX006233,CUS00351,PRD0044,2025-04-16T09:35:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00462,TRX005727,CUS00202,PRD0087,2025-02-17T10:39:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00463,TRX001099,CUS00017,PRD0028,2026-01-09T15:55:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00464,TRX000248,CUS00212,PRD0057,2025-09-02T10:51:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00465,TRX003765,CUS00162,PRD0034,2026-06-25T16:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00466,TRX007159,CUS00206,PRD0047,2025-06-19T19:27:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00467,TRX002586,CUS00015,PRD0001,2025-12-04T12:41:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00468,TRX004171,CUS00471,PRD0042,2025-04-21T21:57:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00469,TRX003162,CUS00263,PRD0052,2025-07-28T14:12:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00470,TRX005436,CUS00073,PRD0008,2025-10-10T11:18:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00471,TRX001792,CUS00391,PRD0002,2026-05-21T16:50:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00472,TRX001380,CUS00389,PRD0060,2025-10-16T10:58:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00473,TRX002020,CUS00013,PRD0070,2025-06-29T09:24:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00474,TRX005050,CUS00213,PRD0035,2025-12-10T10:57:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00475,TRX002755,CUS00022,PRD0081,2025-01-07T14:46:00,3,Kualitas sesuai harga.,Neutral
+REV00476,TRX000183,CUS00347,PRD0066,2025-04-09T16:54:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00477,TRX007786,CUS00246,PRD0012,2025-05-08T11:03:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00478,TRX004626,CUS00387,PRD0092,2025-09-25T09:22:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00479,TRX005477,CUS00069,PRD0002,2026-03-06T19:46:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00480,TRX000342,CUS00482,PRD0010,2025-04-07T12:43:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00481,TRX001309,CUS00191,PRD0052,2025-09-08T11:28:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00482,TRX002784,CUS00349,PRD0014,2025-07-07T10:06:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00483,TRX000523,CUS00486,PRD0056,2025-03-29T10:00:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00484,TRX006730,CUS00029,PRD0091,2026-06-14T16:15:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00485,TRX000642,CUS00242,PRD0036,2025-08-23T09:01:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00486,TRX006052,CUS00128,PRD0077,2025-11-27T13:41:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00487,TRX000831,CUS00372,PRD0064,2025-10-01T14:07:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00488,TRX000877,CUS00090,PRD0098,2025-06-17T21:11:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00489,TRX000338,CUS00402,PRD0067,2026-02-19T16:52:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00490,TRX006032,CUS00264,PRD0032,2026-06-02T13:52:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00491,TRX007369,CUS00246,PRD0032,2025-06-23T08:29:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00492,TRX004342,CUS00404,PRD0098,2025-09-20T08:40:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00493,TRX007240,CUS00340,PRD0049,2026-09-26T08:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00494,TRX006970,CUS00104,PRD0093,2026-07-09T13:44:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00495,TRX005943,CUS00129,PRD0002,2026-06-29T12:58:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00496,TRX001819,CUS00390,PRD0002,2025-02-11T15:33:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00497,TRX006867,CUS00044,PRD0036,2025-09-07T14:09:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00498,TRX000724,CUS00394,PRD0075,2025-01-19T16:55:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00499,TRX005673,CUS00264,PRD0097,2025-12-30T14:05:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00500,TRX005926,CUS00446,PRD0023,2025-05-13T10:10:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00501,TRX005321,CUS00400,PRD0049,2025-03-13T19:02:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00502,TRX001148,CUS00097,PRD0006,2026-05-28T17:39:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00503,TRX003872,CUS00035,PRD0030,2026-03-13T21:18:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00504,TRX005497,CUS00045,PRD0081,2025-11-25T21:17:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00505,TRX005416,CUS00477,PRD0043,2026-04-17T10:01:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00506,TRX003830,CUS00044,PRD0045,2026-04-01T13:41:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00507,TRX005300,CUS00461,PRD0084,2025-03-17T09:03:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00508,TRX002601,CUS00155,PRD0023,2026-06-23T12:21:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00509,TRX001026,CUS00274,PRD0011,2025-12-06T10:06:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00510,TRX007019,CUS00347,PRD0054,2025-01-25T14:16:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00511,TRX001994,CUS00309,PRD0015,2026-08-13T09:53:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00512,TRX001449,CUS00443,PRD0040,2025-12-28T10:58:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00513,TRX001649,CUS00268,PRD0066,2026-07-14T12:09:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00514,TRX002454,CUS00181,PRD0009,2025-01-27T16:03:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00515,TRX001604,CUS00346,PRD0100,2025-11-22T19:22:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00516,TRX002008,CUS00168,PRD0082,2026-01-09T19:01:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00517,TRX003528,CUS00442,PRD0034,2025-11-21T09:14:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00518,TRX001349,CUS00150,PRD0094,2025-05-09T09:56:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00519,TRX003175,CUS00091,PRD0097,2025-07-15T20:22:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00520,TRX004316,CUS00307,PRD0088,2025-07-19T15:02:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00521,TRX002171,CUS00415,PRD0015,2026-07-27T18:48:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00522,TRX007442,CUS00033,PRD0026,2025-10-28T20:16:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00523,TRX006586,CUS00297,PRD0010,2026-04-18T11:03:00,3,Kualitas sesuai harga.,Neutral
+REV00524,TRX005820,CUS00460,PRD0100,2025-08-11T14:25:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00525,TRX000728,CUS00280,PRD0009,2026-01-06T10:24:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00526,TRX006485,CUS00122,PRD0065,2026-01-24T12:11:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00527,TRX005711,CUS00357,PRD0035,2025-04-27T19:59:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00528,TRX005770,CUS00214,PRD0001,2026-08-31T13:09:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00529,TRX003640,CUS00469,PRD0023,2026-06-26T12:44:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00530,TRX003504,CUS00178,PRD0026,2026-03-25T18:44:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00531,TRX000042,CUS00243,PRD0096,2026-01-30T14:52:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00532,TRX002013,CUS00138,PRD0064,2025-05-06T14:37:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00533,TRX004361,CUS00011,PRD0032,2025-04-30T16:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00534,TRX005786,CUS00363,PRD0085,2025-06-24T09:24:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00535,TRX000225,CUS00196,PRD0048,2025-01-12T12:32:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00536,TRX000191,CUS00408,PRD0054,2026-06-13T11:53:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00537,TRX003078,CUS00004,PRD0054,2025-01-13T17:00:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00538,TRX003859,CUS00376,PRD0017,2026-05-08T19:13:00,3,Kualitas sesuai harga.,Neutral
+REV00539,TRX001535,CUS00092,PRD0088,2025-11-30T09:44:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00540,TRX007909,CUS00414,PRD0093,2025-01-02T21:57:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00541,TRX002753,CUS00235,PRD0093,2025-11-06T17:25:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00542,TRX001936,CUS00406,PRD0043,2025-10-06T19:09:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00543,TRX003048,CUS00500,PRD0065,2026-07-24T12:37:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00544,TRX000090,CUS00420,PRD0003,2026-07-08T10:28:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00545,TRX001038,CUS00288,PRD0045,2026-09-03T13:28:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00546,TRX001764,CUS00470,PRD0087,2025-05-19T19:02:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00547,TRX007590,CUS00247,PRD0012,2026-06-30T13:52:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00548,TRX007810,CUS00335,PRD0041,2025-04-24T13:50:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00549,TRX002186,CUS00118,PRD0011,2025-03-11T12:00:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00550,TRX000266,CUS00493,PRD0035,2025-02-17T08:52:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00551,TRX007365,CUS00422,PRD0081,2026-04-09T21:13:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00552,TRX005597,CUS00120,PRD0071,2025-10-11T17:17:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00553,TRX007093,CUS00364,PRD0004,2026-10-20T17:12:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00554,TRX007743,CUS00013,PRD0064,2025-07-07T09:01:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00555,TRX000616,CUS00175,PRD0051,2025-02-27T17:00:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00556,TRX005241,CUS00300,PRD0002,2025-09-19T17:05:00,3,Kualitas sesuai harga.,Neutral
+REV00557,TRX001508,CUS00261,PRD0056,2026-02-17T08:12:00,3,Kualitas sesuai harga.,Neutral
+REV00558,TRX001169,CUS00208,PRD0005,2025-04-24T10:51:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00559,TRX007811,CUS00244,PRD0010,2026-07-24T19:48:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00560,TRX003415,CUS00364,PRD0082,2025-09-12T18:33:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00561,TRX000557,CUS00107,PRD0048,2025-10-12T08:52:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00562,TRX004148,CUS00321,PRD0003,2025-01-23T21:01:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00563,TRX005511,CUS00062,PRD0075,2026-05-21T11:17:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00564,TRX001982,CUS00365,PRD0096,2025-09-15T18:13:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00565,TRX004295,CUS00031,PRD0077,2026-09-28T13:32:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00566,TRX002406,CUS00276,PRD0077,2026-08-21T13:12:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00567,TRX000694,CUS00141,PRD0030,2025-08-23T13:22:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00568,TRX004256,CUS00418,PRD0093,2025-06-25T09:05:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00569,TRX006100,CUS00180,PRD0058,2025-08-04T18:14:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00570,TRX000392,CUS00260,PRD0095,2026-01-28T09:43:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00571,TRX000057,CUS00462,PRD0030,2025-04-07T15:42:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00572,TRX000070,CUS00410,PRD0041,2026-08-26T10:03:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00573,TRX007206,CUS00108,PRD0084,2026-08-06T19:54:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00574,TRX001015,CUS00140,PRD0002,2025-12-27T13:14:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00575,TRX001705,CUS00287,PRD0028,2025-03-09T12:41:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00576,TRX001454,CUS00158,PRD0071,2026-02-04T08:19:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00577,TRX007596,CUS00213,PRD0021,2025-08-03T10:57:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00578,TRX003856,CUS00260,PRD0054,2026-05-11T14:23:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00579,TRX007109,CUS00270,PRD0048,2026-07-12T08:22:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00580,TRX003104,CUS00471,PRD0021,2026-08-01T15:50:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00581,TRX003586,CUS00246,PRD0062,2026-04-01T08:57:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00582,TRX000458,CUS00246,PRD0010,2025-11-10T10:38:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00583,TRX002234,CUS00019,PRD0088,2026-03-15T19:12:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00584,TRX004341,CUS00213,PRD0085,2025-01-22T12:51:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00585,TRX005749,CUS00145,PRD0020,2025-05-14T16:43:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00586,TRX000701,CUS00182,PRD0022,2026-06-27T15:41:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00587,TRX001703,CUS00446,PRD0077,2025-08-04T08:27:00,3,Kualitas sesuai harga.,Neutral
+REV00588,TRX006959,CUS00143,PRD0062,2025-10-17T14:56:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00589,TRX003867,CUS00254,PRD0038,2026-09-21T12:38:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00590,TRX007932,CUS00255,PRD0014,2026-05-11T10:55:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00591,TRX005531,CUS00328,PRD0098,2026-04-23T19:07:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00592,TRX005902,CUS00497,PRD0091,2026-06-17T20:38:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00593,TRX005802,CUS00393,PRD0097,2026-08-02T20:17:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00594,TRX000020,CUS00437,PRD0041,2025-04-20T21:11:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00595,TRX001689,CUS00187,PRD0045,2026-04-05T09:19:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00596,TRX001194,CUS00444,PRD0088,2026-07-20T21:46:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00597,TRX006563,CUS00118,PRD0061,2025-10-08T12:06:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00598,TRX003512,CUS00409,PRD0031,2025-08-10T12:19:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00599,TRX007428,CUS00171,PRD0031,2025-08-19T16:04:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00600,TRX001442,CUS00236,PRD0061,2025-06-12T21:57:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00601,TRX006624,CUS00035,PRD0007,2026-07-11T18:18:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00602,TRX007707,CUS00027,PRD0006,2025-06-09T21:10:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00603,TRX005750,CUS00090,PRD0003,2025-04-10T08:51:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00604,TRX001039,CUS00382,PRD0078,2025-07-12T10:04:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00605,TRX007779,CUS00247,PRD0058,2025-12-21T12:51:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00606,TRX000481,CUS00050,PRD0004,2025-08-29T18:17:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00607,TRX007848,CUS00454,PRD0058,2025-03-02T18:31:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00608,TRX000318,CUS00330,PRD0091,2025-01-27T09:49:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00609,TRX005331,CUS00239,PRD0055,2026-04-18T15:59:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00610,TRX007745,CUS00123,PRD0020,2026-08-25T15:59:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00611,TRX007081,CUS00320,PRD0009,2025-11-17T08:17:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00612,TRX003503,CUS00352,PRD0049,2026-09-02T19:49:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00613,TRX000658,CUS00291,PRD0028,2026-04-30T08:41:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00614,TRX004085,CUS00012,PRD0073,2025-04-18T12:16:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00615,TRX001153,CUS00387,PRD0067,2026-05-03T10:43:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00616,TRX005390,CUS00380,PRD0099,2025-01-30T19:34:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00617,TRX004934,CUS00397,PRD0031,2026-01-29T21:35:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00618,TRX004583,CUS00476,PRD0061,2025-04-09T21:02:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00619,TRX007468,CUS00110,PRD0017,2026-07-26T20:20:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00620,TRX007150,CUS00405,PRD0063,2025-12-07T11:46:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00621,TRX006974,CUS00351,PRD0044,2026-02-16T11:14:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00622,TRX005350,CUS00267,PRD0035,2026-05-28T20:26:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00623,TRX007570,CUS00370,PRD0079,2025-10-09T17:54:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00624,TRX001517,CUS00290,PRD0065,2026-06-23T18:37:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00625,TRX001100,CUS00283,PRD0088,2026-02-06T17:42:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00626,TRX004198,CUS00253,PRD0093,2025-06-25T15:09:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00627,TRX002699,CUS00317,PRD0023,2025-06-25T12:47:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00628,TRX007504,CUS00124,PRD0064,2026-11-03T20:26:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00629,TRX001017,CUS00100,PRD0039,2026-02-24T12:04:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00630,TRX004318,CUS00252,PRD0012,2025-06-25T17:30:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00631,TRX004097,CUS00361,PRD0077,2026-05-12T12:58:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00632,TRX004127,CUS00044,PRD0034,2026-07-30T18:51:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00633,TRX006892,CUS00180,PRD0035,2026-04-10T21:34:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00634,TRX000855,CUS00147,PRD0098,2025-04-20T10:13:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00635,TRX004787,CUS00069,PRD0089,2025-07-21T20:19:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00636,TRX004893,CUS00044,PRD0093,2026-09-15T17:21:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00637,TRX006819,CUS00069,PRD0031,2025-01-13T17:21:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00638,TRX007444,CUS00261,PRD0001,2025-10-29T13:27:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00639,TRX003364,CUS00476,PRD0098,2025-02-19T08:19:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00640,TRX007057,CUS00305,PRD0084,2026-10-14T08:19:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00641,TRX003167,CUS00291,PRD0085,2026-02-09T21:13:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00642,TRX007132,CUS00341,PRD0042,2025-08-14T20:44:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00643,TRX003451,CUS00044,PRD0012,2026-05-27T11:10:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00644,TRX001624,CUS00450,PRD0008,2025-02-12T20:48:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00645,TRX003529,CUS00090,PRD0002,2025-08-03T12:16:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00646,TRX005160,CUS00429,PRD0071,2026-03-12T19:30:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00647,TRX007713,CUS00230,PRD0052,2025-12-06T12:59:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00648,TRX002365,CUS00462,PRD0016,2025-09-07T15:03:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00649,TRX001799,CUS00158,PRD0037,2025-08-23T17:06:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00650,TRX004359,CUS00382,PRD0096,2025-12-05T19:43:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00651,TRX002521,CUS00192,PRD0061,2026-01-08T08:04:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00652,TRX000948,CUS00471,PRD0011,2026-05-30T16:52:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00653,TRX003736,CUS00159,PRD0006,2025-07-29T11:41:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00654,TRX004117,CUS00404,PRD0060,2026-07-28T11:37:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00655,TRX002226,CUS00269,PRD0081,2025-05-15T17:25:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00656,TRX001480,CUS00226,PRD0027,2025-11-26T09:39:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00657,TRX006103,CUS00332,PRD0015,2025-09-12T15:03:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00658,TRX001765,CUS00342,PRD0078,2026-07-19T09:57:00,3,Kualitas sesuai harga.,Neutral
+REV00659,TRX007408,CUS00170,PRD0049,2026-05-22T10:24:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00660,TRX005567,CUS00283,PRD0041,2026-03-30T19:40:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00661,TRX005084,CUS00189,PRD0035,2025-06-20T17:17:00,3,Kualitas sesuai harga.,Neutral
+REV00662,TRX003935,CUS00476,PRD0098,2026-01-05T21:41:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00663,TRX003916,CUS00164,PRD0022,2026-01-06T09:08:00,3,Kualitas sesuai harga.,Neutral
+REV00664,TRX005290,CUS00029,PRD0020,2025-04-05T14:09:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00665,TRX004184,CUS00326,PRD0055,2026-04-20T21:28:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00666,TRX003780,CUS00084,PRD0066,2025-12-26T20:22:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00667,TRX001637,CUS00377,PRD0022,2026-03-07T13:01:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00668,TRX003423,CUS00480,PRD0091,2025-10-17T15:51:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00669,TRX001848,CUS00168,PRD0084,2025-02-23T12:50:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00670,TRX003051,CUS00304,PRD0009,2025-04-18T19:43:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00671,TRX000051,CUS00428,PRD0073,2026-06-18T18:53:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00672,TRX005506,CUS00169,PRD0079,2026-03-05T20:47:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00673,TRX000254,CUS00455,PRD0010,2025-04-07T09:03:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00674,TRX004334,CUS00108,PRD0071,2026-01-26T16:37:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00675,TRX007883,CUS00423,PRD0052,2025-02-07T16:59:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00676,TRX006400,CUS00364,PRD0049,2026-08-02T14:22:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00677,TRX000018,CUS00184,PRD0043,2025-10-02T21:33:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00678,TRX004564,CUS00068,PRD0088,2026-03-30T19:55:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00679,TRX006285,CUS00158,PRD0094,2025-12-25T08:32:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00680,TRX007098,CUS00160,PRD0025,2026-05-30T17:11:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00681,TRX000752,CUS00056,PRD0010,2025-02-18T16:11:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00682,TRX005295,CUS00363,PRD0059,2025-05-09T15:54:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00683,TRX006229,CUS00457,PRD0091,2026-02-06T21:19:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00684,TRX006619,CUS00236,PRD0025,2026-06-07T13:40:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00685,TRX005342,CUS00037,PRD0004,2025-10-06T15:29:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00686,TRX002888,CUS00473,PRD0042,2025-02-07T10:45:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00687,TRX003917,CUS00483,PRD0044,2025-09-13T16:28:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00688,TRX005338,CUS00399,PRD0031,2026-02-23T20:28:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00689,TRX002272,CUS00054,PRD0038,2025-02-28T16:09:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00690,TRX000331,CUS00307,PRD0062,2025-05-30T19:42:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00691,TRX001654,CUS00359,PRD0053,2026-03-31T17:24:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00692,TRX003094,CUS00479,PRD0098,2026-05-30T15:39:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00693,TRX004160,CUS00155,PRD0047,2026-02-05T20:30:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00694,TRX003902,CUS00431,PRD0048,2025-07-25T15:10:00,3,Kualitas sesuai harga.,Neutral
+REV00695,TRX003452,CUS00059,PRD0042,2025-09-21T15:51:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00696,TRX006609,CUS00324,PRD0024,2026-06-27T17:59:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00697,TRX007876,CUS00146,PRD0084,2026-05-21T13:56:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00698,TRX001663,CUS00136,PRD0064,2025-06-14T18:54:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00699,TRX006690,CUS00337,PRD0037,2026-06-09T19:55:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00700,TRX002271,CUS00086,PRD0050,2025-12-13T10:00:00,3,Kualitas sesuai harga.,Neutral
+REV00701,TRX004924,CUS00444,PRD0011,2026-09-11T21:04:00,3,Kualitas sesuai harga.,Neutral
+REV00702,TRX002705,CUS00456,PRD0002,2026-07-27T11:12:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00703,TRX006322,CUS00371,PRD0046,2025-11-08T17:40:00,3,Kualitas sesuai harga.,Neutral
+REV00704,TRX007573,CUS00406,PRD0063,2026-02-02T16:58:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00705,TRX004909,CUS00426,PRD0059,2026-09-02T14:44:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00706,TRX003617,CUS00490,PRD0042,2026-06-03T09:48:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00707,TRX007621,CUS00263,PRD0002,2025-11-27T14:25:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00708,TRX001043,CUS00100,PRD0075,2025-01-22T20:53:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00709,TRX002925,CUS00171,PRD0029,2025-05-27T12:38:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00710,TRX002424,CUS00347,PRD0012,2025-07-14T10:25:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00711,TRX003401,CUS00413,PRD0093,2025-05-01T21:59:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00712,TRX000762,CUS00141,PRD0073,2025-04-10T13:46:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00713,TRX007868,CUS00304,PRD0090,2025-11-27T08:17:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00714,TRX007697,CUS00315,PRD0028,2026-01-06T08:39:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00715,TRX003163,CUS00133,PRD0034,2026-03-08T13:14:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00716,TRX006422,CUS00451,PRD0058,2025-10-22T09:37:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00717,TRX005543,CUS00214,PRD0070,2025-09-25T08:46:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00718,TRX002886,CUS00196,PRD0076,2025-06-15T13:07:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00719,TRX000448,CUS00129,PRD0023,2026-03-12T09:03:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00720,TRX004076,CUS00102,PRD0013,2025-02-15T09:15:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00721,TRX005957,CUS00059,PRD0022,2026-07-18T18:47:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00722,TRX006469,CUS00466,PRD0003,2026-02-06T08:03:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00723,TRX005150,CUS00053,PRD0067,2026-09-13T18:43:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00724,TRX001752,CUS00016,PRD0057,2025-12-12T10:32:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00725,TRX007652,CUS00229,PRD0081,2026-02-06T09:32:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00726,TRX007761,CUS00027,PRD0004,2025-11-06T13:10:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00727,TRX007348,CUS00420,PRD0089,2026-03-11T17:24:00,3,Kualitas sesuai harga.,Neutral
+REV00728,TRX002696,CUS00360,PRD0070,2026-03-15T16:33:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00729,TRX004162,CUS00490,PRD0018,2025-03-04T13:35:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00730,TRX005041,CUS00490,PRD0092,2025-06-02T19:54:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00731,TRX003100,CUS00341,PRD0069,2025-06-28T08:21:00,3,Kualitas sesuai harga.,Neutral
+REV00732,TRX007500,CUS00051,PRD0011,2025-04-30T12:16:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00733,TRX007561,CUS00471,PRD0037,2025-01-30T11:19:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00734,TRX006666,CUS00256,PRD0057,2025-03-12T19:13:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00735,TRX000500,CUS00077,PRD0060,2025-01-23T13:26:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00736,TRX006324,CUS00046,PRD0071,2025-05-11T08:10:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00737,TRX000206,CUS00137,PRD0042,2026-03-17T17:32:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00738,TRX003228,CUS00453,PRD0057,2026-06-17T21:46:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00739,TRX002539,CUS00201,PRD0017,2025-09-06T20:14:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00740,TRX004886,CUS00205,PRD0067,2025-01-09T18:16:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00741,TRX006637,CUS00415,PRD0014,2026-01-01T15:44:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00742,TRX003249,CUS00224,PRD0036,2025-11-21T18:30:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00743,TRX002158,CUS00211,PRD0093,2025-08-14T19:20:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00744,TRX003618,CUS00385,PRD0069,2025-08-07T17:29:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00745,TRX000986,CUS00128,PRD0036,2026-09-28T17:22:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00746,TRX002269,CUS00028,PRD0019,2026-05-05T08:39:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00747,TRX005166,CUS00298,PRD0080,2026-01-29T17:31:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00748,TRX007682,CUS00026,PRD0082,2025-07-28T21:50:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00749,TRX006349,CUS00375,PRD0043,2025-01-19T08:49:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00750,TRX002177,CUS00254,PRD0098,2026-04-03T13:26:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00751,TRX002367,CUS00024,PRD0084,2025-12-05T21:17:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00752,TRX000729,CUS00398,PRD0025,2026-03-20T09:51:00,3,Kualitas sesuai harga.,Neutral
+REV00753,TRX000365,CUS00032,PRD0095,2025-05-22T12:02:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00754,TRX001951,CUS00489,PRD0073,2025-07-22T18:40:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00755,TRX006900,CUS00215,PRD0082,2026-04-04T11:27:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00756,TRX000049,CUS00187,PRD0058,2026-06-02T16:05:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00757,TRX000659,CUS00040,PRD0004,2026-08-12T17:18:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00758,TRX004323,CUS00223,PRD0088,2026-08-31T14:42:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00759,TRX000182,CUS00060,PRD0029,2025-02-14T10:43:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00760,TRX004467,CUS00331,PRD0026,2025-11-18T14:29:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00761,TRX005715,CUS00015,PRD0002,2025-06-22T14:13:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00762,TRX003194,CUS00500,PRD0007,2026-07-07T17:13:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00763,TRX003371,CUS00471,PRD0040,2026-03-17T16:21:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00764,TRX001511,CUS00408,PRD0073,2026-02-09T20:58:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00765,TRX004972,CUS00398,PRD0062,2025-05-23T13:34:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00766,TRX004549,CUS00247,PRD0067,2025-01-24T14:34:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00767,TRX007523,CUS00188,PRD0047,2025-10-02T10:21:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00768,TRX000094,CUS00198,PRD0096,2025-04-28T19:14:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00769,TRX001225,CUS00026,PRD0019,2025-06-21T11:25:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00770,TRX005494,CUS00393,PRD0041,2026-03-30T11:15:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00771,TRX004671,CUS00205,PRD0015,2026-06-07T20:59:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00772,TRX002747,CUS00039,PRD0095,2025-05-04T09:34:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00773,TRX002218,CUS00166,PRD0038,2025-09-10T12:20:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00774,TRX003998,CUS00295,PRD0040,2026-02-04T10:44:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00775,TRX001167,CUS00485,PRD0099,2025-06-14T16:10:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00776,TRX003494,CUS00196,PRD0020,2026-05-10T16:10:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00777,TRX006753,CUS00008,PRD0098,2025-06-29T18:00:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00778,TRX003139,CUS00323,PRD0049,2026-08-21T21:08:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00779,TRX001341,CUS00245,PRD0014,2025-10-10T16:41:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00780,TRX003923,CUS00299,PRD0049,2026-03-14T11:17:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00781,TRX000110,CUS00298,PRD0018,2026-07-18T10:13:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00782,TRX007531,CUS00479,PRD0047,2025-06-13T20:06:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00783,TRX007946,CUS00194,PRD0065,2025-12-02T18:22:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00784,TRX005759,CUS00496,PRD0027,2025-07-27T12:59:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00785,TRX003552,CUS00412,PRD0071,2025-03-01T12:32:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00786,TRX000135,CUS00351,PRD0061,2026-05-09T09:29:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00787,TRX001281,CUS00404,PRD0046,2026-10-07T17:48:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00788,TRX002885,CUS00003,PRD0056,2025-10-09T19:37:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00789,TRX001666,CUS00318,PRD0060,2026-03-17T15:55:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00790,TRX001762,CUS00079,PRD0046,2025-04-18T17:27:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00791,TRX001291,CUS00155,PRD0063,2026-06-02T19:59:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00792,TRX002377,CUS00211,PRD0027,2025-03-08T13:26:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00793,TRX003066,CUS00141,PRD0019,2025-11-10T19:14:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00794,TRX001457,CUS00108,PRD0091,2026-07-02T21:05:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00795,TRX003761,CUS00384,PRD0054,2026-06-01T08:14:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00796,TRX004725,CUS00399,PRD0007,2026-04-08T09:34:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00797,TRX006288,CUS00207,PRD0067,2026-04-28T16:37:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00798,TRX003363,CUS00152,PRD0022,2025-06-02T15:19:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00799,TRX004261,CUS00149,PRD0095,2026-03-18T21:45:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00800,TRX005999,CUS00224,PRD0050,2026-08-13T08:29:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00801,TRX002487,CUS00133,PRD0084,2026-03-06T21:30:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00802,TRX000712,CUS00302,PRD0044,2026-05-24T15:59:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00803,TRX005550,CUS00128,PRD0081,2025-04-14T21:50:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00804,TRX006328,CUS00108,PRD0079,2026-07-11T16:56:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00805,TRX006482,CUS00073,PRD0053,2026-06-20T21:35:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00806,TRX000172,CUS00383,PRD0060,2025-06-26T19:29:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00807,TRX000096,CUS00110,PRD0051,2026-09-24T11:36:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00808,TRX000378,CUS00370,PRD0019,2025-11-24T10:24:00,3,Kualitas sesuai harga.,Neutral
+REV00809,TRX002922,CUS00163,PRD0063,2026-06-18T12:32:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00810,TRX000991,CUS00052,PRD0007,2026-08-25T20:04:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00811,TRX006048,CUS00415,PRD0087,2025-04-10T17:48:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00812,TRX003271,CUS00323,PRD0036,2025-08-12T21:36:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00813,TRX002535,CUS00236,PRD0061,2025-03-10T17:21:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00814,TRX005030,CUS00360,PRD0020,2026-07-14T17:01:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00815,TRX006191,CUS00483,PRD0022,2025-04-17T11:44:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00816,TRX006803,CUS00067,PRD0027,2025-10-02T13:54:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00817,TRX004632,CUS00280,PRD0097,2025-11-28T12:44:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00818,TRX005064,CUS00463,PRD0007,2026-03-29T20:41:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00819,TRX002492,CUS00480,PRD0056,2025-10-29T20:19:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00820,TRX007423,CUS00141,PRD0068,2026-01-03T15:16:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00821,TRX004957,CUS00073,PRD0069,2026-03-19T14:30:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00822,TRX002550,CUS00394,PRD0080,2025-02-23T20:22:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00823,TRX004708,CUS00206,PRD0086,2026-02-17T19:24:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00824,TRX006290,CUS00458,PRD0033,2026-09-06T09:52:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00825,TRX004654,CUS00304,PRD0027,2025-10-20T20:23:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00826,TRX005625,CUS00224,PRD0064,2026-01-05T12:15:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00827,TRX005888,CUS00471,PRD0047,2026-07-12T16:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00828,TRX001695,CUS00105,PRD0077,2026-07-29T17:05:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00829,TRX003396,CUS00340,PRD0077,2026-09-14T10:23:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00830,TRX007129,CUS00083,PRD0052,2026-05-17T16:43:00,3,Kualitas sesuai harga.,Neutral
+REV00831,TRX005215,CUS00173,PRD0012,2025-06-03T12:20:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00832,TRX001076,CUS00371,PRD0040,2026-03-21T09:56:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00833,TRX005184,CUS00284,PRD0054,2026-11-03T10:56:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00834,TRX007179,CUS00240,PRD0084,2025-06-09T17:54:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00835,TRX000525,CUS00379,PRD0069,2026-01-08T19:02:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00836,TRX000809,CUS00163,PRD0083,2026-05-31T19:02:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00837,TRX006276,CUS00117,PRD0095,2026-07-02T13:20:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00838,TRX001229,CUS00104,PRD0003,2025-05-28T20:54:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00839,TRX001778,CUS00050,PRD0080,2025-11-16T08:48:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00840,TRX004333,CUS00407,PRD0042,2026-09-22T14:48:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00841,TRX003197,CUS00182,PRD0033,2026-06-07T12:37:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00842,TRX001289,CUS00038,PRD0099,2026-06-04T17:13:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00843,TRX001018,CUS00149,PRD0021,2026-08-28T16:01:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00844,TRX001681,CUS00333,PRD0054,2026-08-17T20:28:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00845,TRX001975,CUS00385,PRD0061,2026-05-25T20:52:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00846,TRX002985,CUS00383,PRD0072,2026-03-02T20:34:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00847,TRX006750,CUS00050,PRD0049,2025-12-18T13:47:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00848,TRX005504,CUS00049,PRD0055,2026-01-06T14:47:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00849,TRX002112,CUS00486,PRD0015,2025-05-10T21:33:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00850,TRX005033,CUS00013,PRD0064,2025-11-16T19:29:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00851,TRX002393,CUS00309,PRD0032,2025-06-02T12:30:00,3,Kualitas sesuai harga.,Neutral
+REV00852,TRX003184,CUS00072,PRD0075,2025-05-14T13:05:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00853,TRX001573,CUS00067,PRD0067,2025-07-02T10:15:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00854,TRX005688,CUS00032,PRD0045,2026-03-02T19:07:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00855,TRX002708,CUS00403,PRD0066,2026-02-08T20:58:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00856,TRX005010,CUS00336,PRD0024,2026-04-15T10:21:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00857,TRX002340,CUS00289,PRD0056,2025-02-08T20:12:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00858,TRX005824,CUS00328,PRD0044,2025-08-16T08:09:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00859,TRX006356,CUS00110,PRD0062,2025-02-08T15:17:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00860,TRX006885,CUS00155,PRD0026,2025-11-28T09:12:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00861,TRX005823,CUS00345,PRD0079,2025-06-07T21:50:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00862,TRX002659,CUS00364,PRD0039,2025-11-24T19:04:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00863,TRX001398,CUS00052,PRD0001,2025-06-27T09:03:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00864,TRX001206,CUS00014,PRD0055,2025-03-12T13:32:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00865,TRX005569,CUS00368,PRD0084,2026-04-11T14:29:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00866,TRX000074,CUS00478,PRD0026,2026-01-05T13:35:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00867,TRX001682,CUS00205,PRD0049,2026-10-18T20:55:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00868,TRX005819,CUS00249,PRD0095,2025-02-21T13:58:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00869,TRX001047,CUS00022,PRD0053,2025-09-22T14:43:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00870,TRX004134,CUS00360,PRD0074,2026-09-27T20:20:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00871,TRX006234,CUS00220,PRD0078,2025-02-02T16:35:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00872,TRX003272,CUS00297,PRD0033,2025-08-16T16:04:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00873,TRX005674,CUS00296,PRD0006,2026-10-14T08:07:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00874,TRX000929,CUS00483,PRD0043,2025-03-20T16:24:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00875,TRX001305,CUS00410,PRD0081,2025-11-03T15:35:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00876,TRX006272,CUS00053,PRD0087,2025-11-07T14:42:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00877,TRX001350,CUS00075,PRD0045,2025-01-19T15:58:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00878,TRX005551,CUS00104,PRD0012,2025-03-21T20:58:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00879,TRX000185,CUS00084,PRD0097,2026-03-10T20:28:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00880,TRX001248,CUS00052,PRD0087,2025-04-24T20:10:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00881,TRX004656,CUS00138,PRD0073,2026-06-16T13:39:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00882,TRX001198,CUS00071,PRD0069,2025-01-04T13:14:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00883,TRX002629,CUS00196,PRD0011,2025-04-19T19:54:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00884,TRX001918,CUS00057,PRD0047,2025-03-19T08:40:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00885,TRX004396,CUS00034,PRD0015,2026-02-21T20:46:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00886,TRX006759,CUS00019,PRD0076,2025-12-07T10:00:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00887,TRX000032,CUS00246,PRD0086,2025-05-08T20:22:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00888,TRX003182,CUS00154,PRD0084,2025-02-18T11:11:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00889,TRX002892,CUS00214,PRD0056,2025-02-09T19:37:00,3,Kualitas sesuai harga.,Neutral
+REV00890,TRX005001,CUS00166,PRD0003,2025-07-01T21:10:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00891,TRX002999,CUS00104,PRD0065,2025-01-19T19:39:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00892,TRX001933,CUS00108,PRD0044,2025-02-04T21:50:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00893,TRX000173,CUS00404,PRD0043,2026-09-22T16:36:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00894,TRX006343,CUS00491,PRD0053,2026-07-28T14:25:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00895,TRX003793,CUS00200,PRD0065,2026-03-26T10:22:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00896,TRX003980,CUS00384,PRD0095,2026-10-20T20:04:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00897,TRX004946,CUS00084,PRD0069,2025-03-23T21:14:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00898,TRX004612,CUS00125,PRD0093,2025-10-01T19:24:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00899,TRX002320,CUS00189,PRD0040,2026-01-28T08:35:00,3,Kualitas sesuai harga.,Neutral
+REV00900,TRX005229,CUS00410,PRD0044,2026-01-22T21:32:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00901,TRX003591,CUS00286,PRD0071,2025-01-29T14:32:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00902,TRX004501,CUS00279,PRD0070,2026-06-09T12:57:00,3,Kualitas sesuai harga.,Neutral
+REV00903,TRX001740,CUS00411,PRD0097,2026-04-10T09:37:00,1,Saya kecewa dengan kualitas produk.,Negative
+REV00904,TRX004055,CUS00175,PRD0033,2025-11-23T17:01:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00905,TRX002321,CUS00247,PRD0099,2026-10-18T14:43:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00906,TRX002668,CUS00061,PRD0095,2026-04-01T14:05:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00907,TRX001588,CUS00449,PRD0080,2025-08-28T13:15:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00908,TRX006895,CUS00020,PRD0048,2026-10-01T14:56:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00909,TRX001698,CUS00097,PRD0020,2025-11-13T20:23:00,3,Kualitas sesuai harga.,Neutral
+REV00910,TRX001639,CUS00210,PRD0093,2025-09-03T18:08:00,3,Kualitas sesuai harga.,Neutral
+REV00911,TRX001128,CUS00068,PRD0045,2026-02-10T10:37:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00912,TRX000848,CUS00445,PRD0006,2025-04-25T10:37:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00913,TRX005005,CUS00489,PRD0049,2026-06-06T21:27:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00914,TRX007035,CUS00072,PRD0067,2025-09-19T21:27:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00915,TRX004244,CUS00228,PRD0085,2025-03-30T16:26:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00916,TRX001348,CUS00419,PRD0093,2025-01-14T20:34:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00917,TRX007695,CUS00115,PRD0039,2026-07-31T20:03:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00918,TRX001323,CUS00091,PRD0021,2026-03-16T13:03:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00919,TRX001789,CUS00086,PRD0040,2025-08-14T11:07:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00920,TRX006692,CUS00257,PRD0014,2026-08-28T17:00:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00921,TRX002474,CUS00103,PRD0041,2026-06-21T13:30:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00922,TRX000027,CUS00419,PRD0072,2026-04-18T13:23:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00923,TRX003020,CUS00052,PRD0094,2025-09-25T10:12:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00924,TRX002071,CUS00004,PRD0048,2025-12-02T10:15:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00925,TRX005796,CUS00246,PRD0011,2025-12-20T14:49:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00926,TRX002879,CUS00199,PRD0076,2026-05-20T13:33:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00927,TRX004519,CUS00027,PRD0067,2026-02-14T21:05:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00928,TRX004535,CUS00103,PRD0035,2025-05-08T14:32:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00929,TRX003738,CUS00384,PRD0070,2025-04-24T13:50:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00930,TRX002034,CUS00206,PRD0078,2026-10-01T11:36:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00931,TRX001343,CUS00048,PRD0050,2026-05-12T19:06:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00932,TRX005778,CUS00372,PRD0047,2025-08-11T12:45:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00933,TRX004646,CUS00390,PRD0097,2026-03-09T16:16:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00934,TRX006316,CUS00188,PRD0095,2026-10-27T21:14:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00935,TRX006898,CUS00053,PRD0078,2025-04-09T08:16:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00936,TRX005462,CUS00067,PRD0072,2025-06-07T14:56:00,3,Kualitas sesuai harga.,Neutral
+REV00937,TRX000514,CUS00194,PRD0021,2026-08-27T13:23:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00938,TRX006315,CUS00463,PRD0024,2026-06-01T15:09:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00939,TRX000450,CUS00280,PRD0064,2026-01-07T20:26:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00940,TRX003914,CUS00064,PRD0077,2025-06-16T15:07:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00941,TRX001595,CUS00321,PRD0012,2025-09-22T20:47:00,3,Kualitas sesuai harga.,Neutral
+REV00942,TRX006090,CUS00390,PRD0069,2026-05-30T15:52:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00943,TRX001908,CUS00102,PRD0065,2026-08-29T17:39:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00944,TRX000154,CUS00331,PRD0099,2025-07-29T17:25:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00945,TRX002159,CUS00018,PRD0032,2025-05-30T21:10:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00946,TRX003651,CUS00321,PRD0034,2025-05-02T09:20:00,3,Kualitas sesuai harga.,Neutral
+REV00947,TRX003056,CUS00001,PRD0037,2025-09-21T11:01:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00948,TRX000081,CUS00119,PRD0025,2026-03-22T20:18:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00949,TRX004764,CUS00163,PRD0062,2025-08-18T12:42:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00950,TRX007877,CUS00269,PRD0065,2025-11-01T10:59:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00951,TRX003666,CUS00059,PRD0086,2025-08-06T13:34:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00952,TRX005723,CUS00171,PRD0089,2025-06-08T21:14:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00953,TRX006957,CUS00046,PRD0003,2025-06-03T14:46:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00954,TRX003628,CUS00466,PRD0057,2025-08-10T19:15:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00955,TRX007532,CUS00064,PRD0035,2026-10-02T16:25:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00956,TRX002106,CUS00458,PRD0038,2026-06-24T17:20:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00957,TRX005513,CUS00260,PRD0074,2026-02-25T11:46:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00958,TRX001920,CUS00470,PRD0065,2026-03-18T15:47:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00959,TRX006940,CUS00142,PRD0049,2026-07-01T15:32:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00960,TRX001763,CUS00480,PRD0033,2025-08-21T15:55:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00961,TRX003329,CUS00231,PRD0033,2025-12-03T15:56:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00962,TRX007001,CUS00274,PRD0091,2025-07-15T16:34:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00963,TRX004836,CUS00285,PRD0032,2026-01-03T08:09:00,2,Produk datang terlambat dan kemasan kurang rapi.,Negative
+REV00964,TRX004477,CUS00171,PRD0034,2026-05-26T14:50:00,2,Ada bagian produk yang perlu diperbaiki.,Negative
+REV00965,TRX002064,CUS00170,PRD0033,2025-11-19T13:22:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00966,TRX002846,CUS00148,PRD0050,2026-10-03T14:35:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00967,TRX004732,CUS00313,PRD0013,2025-02-12T19:47:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00968,TRX000548,CUS00132,PRD0084,2026-08-07T16:15:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00969,TRX006107,CUS00369,PRD0090,2026-01-07T11:02:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00970,TRX004354,CUS00059,PRD0016,2025-07-30T10:28:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00971,TRX003326,CUS00029,PRD0052,2026-08-29T21:26:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00972,TRX002131,CUS00277,PRD0033,2026-03-23T15:06:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00973,TRX007818,CUS00473,PRD0024,2025-07-04T21:36:00,2,Kualitas produk kurang sesuai harapan.,Negative
+REV00974,TRX000599,CUS00459,PRD0019,2026-07-28T15:35:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00975,TRX001981,CUS00491,PRD0085,2025-11-26T09:59:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00976,TRX007826,CUS00333,PRD0050,2025-09-28T09:49:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00977,TRX006127,CUS00038,PRD0056,2026-06-15T17:10:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00978,TRX005828,CUS00403,PRD0056,2025-02-15T20:54:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00979,TRX005716,CUS00401,PRD0055,2025-07-07T18:18:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00980,TRX001881,CUS00262,PRD0098,2025-04-07T15:41:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral
+REV00981,TRX003245,CUS00399,PRD0095,2025-04-21T14:21:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00982,TRX007126,CUS00194,PRD0037,2025-03-16T16:01:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00983,TRX000505,CUS00101,PRD0033,2026-02-01T13:11:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00984,TRX001351,CUS00324,PRD0052,2025-05-10T18:37:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00985,TRX006644,CUS00330,PRD0060,2025-08-17T14:40:00,3,Kualitas sesuai harga.,Neutral
+REV00986,TRX005262,CUS00445,PRD0081,2025-07-29T13:44:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00987,TRX003462,CUS00297,PRD0082,2026-02-23T08:09:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00988,TRX007895,CUS00178,PRD0065,2026-02-09T21:59:00,1,Barang diterima dalam kondisi kurang baik.,Negative
+REV00989,TRX004608,CUS00016,PRD0051,2026-08-03T20:37:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00990,TRX005003,CUS00381,PRD0008,2025-03-15T16:29:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00991,TRX000953,CUS00181,PRD0020,2025-05-21T19:23:00,4,Pengalaman belanja menyenangkan.,Positive
+REV00992,TRX006724,CUS00268,PRD0013,2025-07-08T12:49:00,5,Harga sesuai kualitas. Saya puas dengan pembelian ini.,Positive
+REV00993,TRX000490,CUS00102,PRD0051,2026-06-25T11:23:00,5,"Pengiriman cepat, produk berfungsi dengan baik.",Positive
+REV00994,TRX000872,CUS00433,PRD0045,2026-09-18T18:11:00,3,Barang diterima dengan baik tetapi tidak istimewa.,Neutral
+REV00995,TRX001704,CUS00354,PRD0014,2025-06-02T20:15:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV00996,TRX002394,CUS00472,PRD0092,2026-06-25T12:52:00,4,Produk cukup bagus dan sesuai kebutuhan.,Positive
+REV00997,TRX002236,CUS00247,PRD0002,2025-01-11T13:47:00,4,"Kualitas baik, meskipun kemasan bisa ditingkatkan.",Positive
+REV00998,TRX003782,CUS00294,PRD0076,2026-05-04T13:50:00,1,Produk tidak sesuai deskripsi.,Negative
+REV00999,TRX007480,CUS00389,PRD0019,2025-01-23T11:10:00,5,Produk sesuai deskripsi dan kualitasnya bagus.,Positive
+REV01000,TRX006310,CUS00044,PRD0047,2025-01-23T18:53:00,3,"Produk standar, masih bisa ditingkatkan.",Neutral

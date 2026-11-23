@@ -1,0 +1,15 @@
+table,column,key_or_relation,description
+customers,customer_id,PK,Unique customer identifier
+products,product_id,PK,Unique product identifier
+products,category_id,FK -> categories.category_id,Product category
+products,supplier_id,FK -> suppliers.supplier_id,Product supplier
+transactions,transaction_id,PK,Unique transaction identifier
+transactions,branch_id,FK -> branches.branch_id,Branch where transaction occurred
+transactions,customer_id,FK -> customers.customer_id,Customer making transaction
+transaction_items,transaction_item_id,PK,Unique transaction line identifier
+transaction_items,transaction_id,FK -> transactions.transaction_id,Parent transaction
+transaction_items,product_id,FK -> products.product_id,Purchased product
+customer_reviews,review_id,PK,Unique review identifier
+customer_reviews,transaction_id,FK -> transactions.transaction_id,Reviewed transaction
+customer_reviews,customer_id,FK -> customers.customer_id,Reviewing customer
+customer_reviews,product_id,FK -> products.product_id,Reviewed product
